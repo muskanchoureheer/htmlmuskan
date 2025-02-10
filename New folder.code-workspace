@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "New folder",
+			"path": "."
+		},
+		{
+			"name": "OneDrive",
+			"path": "../OneDrive"
+		}
+	],
+	"settings": {}
+}
